@@ -1,0 +1,26 @@
+Task 1
+
+- Create 3 repositories
+- Name for Repositories: 
+
+	- String_Reverse 
+link for code 
+https://gist.githubusercontent.com/Suranchiyev/23775d4a8b5eaf609dd163c1a183954b/raw/2fcfa65eb51db5af7026b57e4471273432921f3c/Solution169.java
+
+	- Array_Reverse 
+link for code
+https://gist.githubusercontent.com/Suranchiyev/138cee013aad86950e6968e3378fff88/raw/3e4245522db97a1a7cfa71eda6464754e48ab609/Solution170.java
+
+	- Reverse_words 
+link for code
+https://gist.githubusercontent.com/Suranchiyev/c0984705f495741d0ee71bf330a825b3/raw/7dc4e862711b22d77ae6d3d4a4e23dd364ca90dd/Solution171.java
+
+
+TODO: for each repository create your own Branch the branch name should be your lastName
+use command 
+git checkout -b yourlastname
+
+- for all 3 repositories push the code from your branch and merge it in to the master branch
+
+Send 3 repositories to your instructor via slack once you are done.
+Each repository should have your branch and the master branch. 

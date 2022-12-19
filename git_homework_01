@@ -1,0 +1,28 @@
+Homework Assignment 1
+
+For this homework you are expected to write 
+manual testing steps using Gherkin steps 
+
+You need to write 1 positive Testing scenario
+
+Task 1: Navigate to https://www.enterprise.com/en/home.html  
+Select View All Vehicles in the home page.
+- Create a User Story in Jira with title, Description, Assign story points to the Ticket and add the title and Description to test. 
+
+- Once you are done with your manual testing steps save the file and create a repository name it "enterprise_Vehicles" 
+
+- Push your reposiroty to github and send your repository to your instructor via Slack. 
+
+
+US-01
+Title: Vehicles for rent
+
+Description: Verify in Vehicles for rent and cars suv trucks and vans for AWD & 4x4 Cars 4-8 people 3-7 Bags
+
+Page should display "Looking for a rental car that offers more road capability? Browse our selection of AWD and 4x4 rental cars for your next adventure. Whether you're traveling for business or taking a family vacation, our selection of all-wheel drive and 4x4 vehicles will help you you there now."
+
+Verify that product displays 4-8 People
+Verify that 3-7 Bags
+Verify AWD & 4x4 Cars 
+
+

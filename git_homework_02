@@ -1,0 +1,33 @@
+Homework Assignment 2
+
+For this homework you are expected to write 
+manual testing steps using Gherkin steps 
+
+You need to write 1 positive Testing scenario
+
+Task 1: Navigate to https://www.josbank.com/  
+Select Sweaters
+
+- Create a User Story in Jira with title, Description, Assign story points to the Ticket and add the title and Description to test. 
+
+- Once you are done with your manual testing steps save the file and create a repository name it "josAbankSweaters" 
+
+- Push your repository to github and submit your repository to your instructor via Slack. 
+
+
+US-02
+Title: Sweaters Zip Front Verify
+
+Description: Verify in Zip Front drop down options available
+Size
+Type
+Fit
+Color
+Pattern
+
+Under Refine Your Results
+
+Verify in Size -> Small, Medium, Large is displayed
+Verify in Type -> Sweater Vests, Sweaters is displayed
+
+
